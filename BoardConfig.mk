@@ -95,6 +95,11 @@ TARGET_KERNEL_CONFIG := stone_defconfig
 TARGET_KERNEL_SOURCE := kernel/xiaomi/veux
 TARGET_KERNEL_NO_GCC := true
 
+# Global LTO
+TARGET_GLOBAL_LTO := thin
+TARGET_GLOBAL_OPTIMIZATION := O3
+TARGET_GLOBAL_THINLTO := true
+
 # OTA assert
 TARGET_OTA_ASSERT_DEVICE := moonstone,sunstone,stone
 

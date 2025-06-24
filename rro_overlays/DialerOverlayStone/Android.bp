@@ -4,6 +4,6 @@
 //
 
 runtime_resource_overlay {
-    name: "DialerOverlayCommon",
+    name: "DialerOverlayStone",
     product_specific: true,
 }

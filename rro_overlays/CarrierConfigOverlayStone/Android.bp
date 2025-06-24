@@ -4,7 +4,7 @@
 //
 
 runtime_resource_overlay {
-    name: "CarrierConfigOverlayCommon",
+    name: "CarrierConfigOverlayStone",
     aaptflags: ["--keep-raw-values"],
     product_specific: true,
 }

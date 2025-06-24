@@ -4,6 +4,6 @@
 //
 
 runtime_resource_overlay {
-    name: "SystemUIOverlayTarget",
+    name: "SettingsOverlayStone",
     vendor: true,
 }
